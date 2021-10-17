@@ -1,7 +1,11 @@
-#header {
+.textContent {
     background-color: gray;
     height: 100px;
     color: white;
     display: flex;
     align-items: center;
+}
+#mainContent {
+    background-color: lightblue;
+    height: 400px;
 }
