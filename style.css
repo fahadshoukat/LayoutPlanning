@@ -9,3 +9,16 @@
     background-color: lightblue;
     height: 400px;
 }
+#navigationBar {
+    width: 25%;
+    background-color: lightcoral;
+    height: 400px;
+    padding: 10px;
+}
+.navItems {
+    background-color: lightgoldenrodyellow;
+    height: 50px;
+    margin: 10px;
+    padding: 25px 0px 0px 20px;
+    font-size: 25px;
+}
